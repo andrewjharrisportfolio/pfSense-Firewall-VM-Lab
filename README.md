@@ -6,7 +6,7 @@
 
 
 
-The objective of this home project is to set up a pfSense firewall within a virtualized environment using VMware and Kali Linux. The project involves configuring pfSense to secure network traffic, segment the network, and provide firewall protection for virtual machines. Kali Linux will be used to ensure that the firewall is set up correctly, validate that it is properly configured to control network traffic, and confirm that machines connected to the firewall can successfully reach each other and the internet. The goal is to create a secure, isolated network environment while gaining hands-on experience with firewall configuration, penetration testing, and network security validation.
+The objective of this home project is to set up a pfSense firewall within a virtualized environment using VMware and Kali Linux. The project involves configuring pfSense to secure network traffic, segment the network, and provide firewall protection for virtual machines. Kali Linux will be used to ensure that the firewall is set up correctly, validate that it is properly configured to control network traffic, and confirm that machines connected to the firewall can successfully reach each other and the internet. The goal is to create a secure, isolated network environment while gaining hands-on experience with firewall configuration, penetration testing, and network security validation. This was a pretty simple lab once she get the firewall and your computers on the same network you can login via the web console and configure any rules you would like 😎
 
 ### Skills Learned
 
